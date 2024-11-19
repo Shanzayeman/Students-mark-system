@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.saad {
+    margin: 130px;
+}
+
+#Input {
+    margin-left: 50px;
+}
+
+#Input2 {
+    margin-left: 70px;
+}
+
+#Input3 {
+    margin-left: 30px;
+}
+
+#main {
+    border: 2px solid black;
+    position: relative;
+}
+
+h2 {
+    text-align: center;
+}
+
+#btn {
+    position: absolute;
+    top: 380px;
+    left: 600px;
+    border: 1px solid black;
+    font-size: larger;
+}
